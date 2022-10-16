@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tiago</h1>
 <h3 align="center">A developer, engineer & artist from Colombia</h3>
 
-- 🌱 I’m currently learning **C#, Java and improving my FullStack JS skills**
+- 🌱 I’m currently improving my FullStack JavaScript skills**
 
 - ⚡ Fun fact **My creativity goes out of this world... literally**
 
