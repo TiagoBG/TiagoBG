@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tiago</h1>
-<h3 align="center">A developer, engineer & artist from Medellín, Colombia</h3>
+<h3 align="center">A developer, engineer & artist from Envigado, Colombia</h3>
 
 - 🌱 I’m currently improving my FullStack JavaScript skills**
 
-- ⚡ Fun fact **My creativity goes out of this world... literally**
+- ⚡ Fun fact **I think I drink more than 3 bottles of water per day**
 
 <h2 align="left">Skills</h2>
 <h3>Markup Languages</h3>
