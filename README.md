@@ -59,8 +59,7 @@
 <h3>DevOps</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/67036224/224585345-fc249f86-99d2-4019-b7a8-437b2ee4fe46.png" alt="aws" width="40" height="40"/>
-  <br/>
-  AWS</a>  
+    <div>AWS</div></a>  
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   <br/>
   Jenkins</a> 
