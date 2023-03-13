@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently improving my FullStack JavaScript skills**
 
-- ⚡ Fun fact: **I think I drink more than 3 bottles of water per day**
+- ⚡ Fun fact: **I drink more than 3 bottles of water per day**
 
 <h2 align="left">Skills</h2>
 <h3>Markup Languages</h3>
