@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tiago</h1>
-<h3 align="center">A developer, engineer & artist from Colombia</h3>
+<h3 align="center">A developer, engineer & artist from Medellín, Colombia</h3>
 
 - 🌱 I’m currently improving my FullStack JavaScript skills**
 
